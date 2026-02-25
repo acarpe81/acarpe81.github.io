@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.acarpe81.svtomatic",
+      "sha256_cert_fingerprints": [
+        "77:65:0E:5D:12:B9:AF:21:EA:D8:CE:91:AF:8C:A7:7F:10:99:B4:96:F2:F8:02:24:4F:9E:3C:DC:64:8E:B7:34"
+      ]
+    }
+  }
+]
